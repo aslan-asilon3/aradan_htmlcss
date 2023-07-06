@@ -1,0 +1,2 @@
+kompilasi scss ke css=====
+sass app.scss ../css/app.css
